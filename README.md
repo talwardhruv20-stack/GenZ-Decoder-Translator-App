@@ -34,3 +34,7 @@ Want to run this app locally on your machine? Follow these simple steps:
    ```bash
    git clone [https://github.com/talwardhruv20-stack/GenZ-Decoder-Translator-App.git](https://github.com/talwardhruv20-stack/GenZ-Decoder-Translator-App.git)
    cd GenZ-Decoder-Translator-App
+ 👨‍💻 Author
+ Dhruv Talwar
+
+BCA in Artificial Intelligence & Machine Learning
